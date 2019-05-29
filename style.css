@@ -1,0 +1,138 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family:  'Nunito', sans-serif;
+}
+.navbar li i {
+    padding: 5px;
+    font-size: 10px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+h3 i{
+    font-size: 15px;
+}
+.navbar input{
+    border-radius:5px; 
+    padding-left: 20;
+    height: 30px;
+    
+}
+.navbar p i {
+    color: green;
+    font-size: 10px;
+    padding: 5px;
+}
+.placeicon input[type=text]{
+    padding-left: 40px;
+    background-color: #350d36;
+    border: none;
+
+}
+.placeicon{
+    position: relative;
+
+    
+}
+.placeicon i{
+    position: absolute;
+    left: 0;
+    top: 0px;
+    padding: 10px;
+    color: #b29fb3;
+}
+.container{
+display: flex;
+
+
+}
+.navbar{
+   
+border:1px solid;
+padding-right: 20px;
+background-color: #520066;
+color:#f0f0f5;
+padding-left: 0px;
+
+
+
+}
+ul li:hover{
+    font-weight: bold;
+    color: white;
+}
+
+  .header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid black;
+        
+  }    
+  .header i{
+      color: #616061;
+     
+  }
+.header h4{
+    color: black; 
+    padding: 5px;
+}
+.header h4 i{
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+}
+.topicon i{
+    border-left: 1px solid #616061;
+    padding: 10px;
+    font-size: 10px;
+
+}
+.topicon{
+    padding: 0px;
+}
+.toprighticon{
+padding-top:30px; 
+
+
+}
+.headersearch input[type=text]{
+    padding-left: 40px;
+}
+  .headersearch{
+    position: relative;
+    
+  }
+  .headersearch i{
+    position: absolute;
+    left: 0;
+    top: 0px;
+    padding: 5px;
+    color: #b29fb3;
+  }
+
+
+
+
+
+.main-section{
+    flex:3;
+    border-bottom:10px; 
+   
+   
+
+}
+
+ul li{
+   list-style: none;
+   padding-left: 0px;
+
+}
+button{
+    background-color: g
+    #006600
+}
+
+}
